@@ -8,13 +8,13 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+   <a href="https://www.linkedin.com/in/shhaurya-jaiswal-119941284/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:shivaanroy614@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Thebinary110">
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -91,8 +91,8 @@ CI/CD, Linux, monitoring and observability
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thebinary110&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thebinary110&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 ---
@@ -104,19 +104,3 @@ Open to discussions around:
 - LLM infrastructure  
 - scalable backend systems  
 ---
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thebinary110&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thebinary110&theme=tokyonight&hide_border=true" height="170"/>
-</div>
-
----
-
-## Contact
-
-Open to discussions around:
-- AI systems engineering  
-- LLM infrastructure  
-- scalable backend systems  
