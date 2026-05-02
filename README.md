@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Shivaan%20Roy&fontSize=65&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Shhaurya%20Jaiswal&fontSize=65&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </div>
 
 <h1 align="center">
