@@ -65,9 +65,7 @@ data → modeling → training → inference → deployment
 | CVPR Workshop – AUTOPILOT VQA | Ranked #1 globally on multimodal evaluation benchmark (661 videos, 25 QA pipelines) |
 | IEEE WCCI 2026 | Published research on multi-modal behavioral detection of malicious npm packages |
 | ICMLDE 2025 | Published "QFedAstro: Quantum-Enhanced Federated Learning" in Procedia Computer Science |
-| IIT-JEE Main | Top 3% among 1.2M+ applicants |
 | IIT Guwahati Hackathon | 2nd Runner-Up |
-| HackX @ IIIT Nagpur | 1st Place |
 | Open Source Contributions | Contributions merged into Dify, Qdrant ecosystem, and CloudCV/EvalAI |
 
 </div>
