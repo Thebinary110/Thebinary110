@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=800&color=00F7EE&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;LLMs+%7C+Vision+%7C+Scalable+AI;Building+Intelligence+That+Runs+in+Production" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=800&color=00F7EE&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;LLMs+%7C+Vision+%7C+Scalable+AI;Building+Intelligence+in+Production" />
 </h1>
 
 <p align="center">
