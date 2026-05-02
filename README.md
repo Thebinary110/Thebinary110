@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/shhaurya-jaiswal-119941284/">
+  <a href="https://www.linkedin.com/in/shhaurya-jaiswal-119941284/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shivaanroy614@gmail.com">
@@ -25,12 +25,12 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-I design and build AI systems that operate beyond experimentation and function reliably in production environments.
+I design and engineer AI systems that move beyond experimentation and operate reliably at production scale.
 
 B.Tech CSE (AI/ML) at IIIT Nagpur  
 Focused on LLM systems, multimodal intelligence, and scalable AI infrastructure  
 
-I work across the full lifecycle:
+I work across the full lifecycle:  
 data → modeling → training → inference → deployment
 
 ---
@@ -47,36 +47,10 @@ data → modeling → training → inference → deployment
 
 ## Core Domains
 
-
-LLMs & Agent Systems → RAG, LangChain, LangGraph, AutoGen
-Computer Vision → Detection, tracking, multimodal systems
-Systems Engineering → Distributed systems, async pipelines
-Inference Optimization → Batching, quantization, GPU efficiency
-
-
----
-
-## Tech Stack
-
-### Languages
-Python, C++, JavaScript, TypeScript, SQL, Bash
-
-### AI / ML
-PyTorch, TensorFlow, Transformers, LoRA, RLHF  
-Computer Vision, Multimodal Systems, LLM pipelines
-
-### Backend & Agents
-LangChain, LangGraph, AutoGen  
-FastAPI, Flask, REST APIs, WebSockets  
-Async systems, microservices
-
-### Databases & Retrieval
-PostgreSQL, MongoDB, Neo4j  
-FAISS, Pinecone, ChromaDB, pgvector
-
-### Infrastructure
-Docker, Kubernetes, AWS  
-CI/CD, Linux, monitoring and observability
+- LLMs & Agent Systems → RAG, LangChain, LangGraph, AutoGen  
+- Computer Vision → Detection, tracking, multimodal systems  
+- Systems Engineering → Distributed systems, async pipelines  
+- Inference Optimization → Batching, quantization, GPU efficiency  
 
 ---
 
@@ -103,4 +77,5 @@ Open to discussions around:
 - AI systems engineering  
 - LLM infrastructure  
 - scalable backend systems  
+
 ---
